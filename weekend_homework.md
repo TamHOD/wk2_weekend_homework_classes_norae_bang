@@ -38,3 +38,9 @@ As part of this homework you are required to take screenshots of the following:
 - Submit your PDA evidence (screenshots, etc.) to your own PDA repo
 
 - PDA Reference: I.T 5
+
+
+To do:
+guest reject
+sell food, drink
+interface
